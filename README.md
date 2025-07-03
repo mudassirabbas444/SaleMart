@@ -34,19 +34,14 @@ A modern, full-featured e-commerce mobile application built with React Native, E
 
 ### App Screenshots
 ![image](assets/image1.png)
-*User authentication screen with modern gradient design*
 
 ![image](assets/image2.png)
-*Main home screen with product categories and featured items*
 
 ![image](assets/image3.png)
-*Detailed product view with specifications and reviews*
 
 ![image](assets/image4.png)
 
 ![image](assets/image5.png)
-
-![image](assets/image6.png)
 
 ## 🚀 Getting Started
 
